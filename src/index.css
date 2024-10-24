@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+section {
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  background: #000;
+}
